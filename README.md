@@ -12,7 +12,11 @@ I'm enthusiastic about my continued growth and learning as a developer and desig
 
 📫 You can reach me at thcuk1@hotmail.co.uk
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,js,sql,nodejs,figma,github,jest,ai,ps,blender)](https://skillicons.dev)
+#Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,js,nodejs,figma,github,jest,ai,ps,blender)](https://skillicons.dev)
+
+#Social:
 
 [![Social](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true)]
 
