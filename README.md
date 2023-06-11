@@ -1,6 +1,6 @@
 ### Hi there, I'm Tom! 👋
 
-Currently, I'm enrolled in the challenging School of Code bootcamp, which is providing me with the necessary skills and knowledge to become a full-stack developer. This intensive program has challenged me to think creatively and work collaboratively with other students and industry professionals, pushing me to new levels of technical proficiency.
+I'm currently enrolled in the challenging School of Code bootcamp, which is providing me with the necessary skills and knowledge to become a full-stack developer. This intensive program has challenged me to think creatively and work collaboratively with other students and industry professionals, pushing me to new levels of technical proficiency.
 
 My experience as a ski instructor taught me how to communicate effectively with diverse groups of people, while my freelance design work developed my proficiency in various design software, including the Adobe suite, Blender, and Maya. I'm confident that I can leverage my skills and expertise to create impactful and engaging digital products that prioritize user experience.
 
