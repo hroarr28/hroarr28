@@ -12,9 +12,11 @@ I'm enthusiastic about my continued growth and learning as a developer and desig
 
 📫 You can reach me at thcuk1@hotmail.co.uk
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript, js,sql, nodejs, figma, github, ai, ps, jest,)](https://skillicons.dev)
 
 <!--
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript, js,sql, nodejs, figma, github, ai, ps, jest,)](https://skillicons.dev)
+
 **hroarr28/hroarr28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
