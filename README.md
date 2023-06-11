@@ -18,4 +18,4 @@ I'm enthusiastic about my continued growth and learning as a developer and desig
 
 ## Social
 
-[![LinkedIn](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true)](https://www.linkedin.com/)
+<a href="https://www.linkedin.com/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" alt="LinkedIn" width="50" height="50"></a>
