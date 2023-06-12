@@ -14,7 +14,7 @@ I'm enthusiastic about my **continued growth** and learning as a developer and d
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,js,nodejs,figma,github,jest,ai,ps,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,figma,github,jest,ai,ps,blender)](https://skillicons.dev)
 
 ## Social
 
